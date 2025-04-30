@@ -100,9 +100,6 @@ The Poseidon Spine MK-1 is a revolutionary **underwater computational and propul
    - Track changes in water quality, temperatures, and currents.
 3. **Underwater Construction**:
    - Assist in building and repairing underwater infrastructure.
-4. **Space Exploration (Future Versions)**:
-   - Adapt for use in low-gravity, liquid-like environments such as Europa's oceans.
-
 ---
 
 ## **Cost-Saving Measures**
@@ -118,7 +115,7 @@ The Poseidon Spine MK-1 is a revolutionary **underwater computational and propul
 ## **Future Enhancements**
 - Add an **underwater drone network** for extended exploration.
 - Integrate **biomimetic propulsion systems** for even greater efficiency.
-- Develop a **space-compatible version** for interstellar liquid environments.
+  
 
 ---
 
